@@ -41,6 +41,7 @@
 		A48B5312297F27B600B91CB2 /* RatingSizesDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A48B5311297F27B600B91CB2 /* RatingSizesDetailView.swift */; };
 		A48B5314297F2E2400B91CB2 /* QuantityFavoriteDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A48B5313297F2E2400B91CB2 /* QuantityFavoriteDetailView.swift */; };
 		A48B5316297F309A00B91CB2 /* AddToCartDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A48B5315297F309A00B91CB2 /* AddToCartDetailView.swift */; };
+		A49FEF8129818DFF00912568 /* Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = A49FEF8029818DFE00912568 /* Shop.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -80,6 +81,7 @@
 		A48B5311297F27B600B91CB2 /* RatingSizesDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingSizesDetailView.swift; sourceTree = "<group>"; };
 		A48B5313297F2E2400B91CB2 /* QuantityFavoriteDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuantityFavoriteDetailView.swift; sourceTree = "<group>"; };
 		A48B5315297F309A00B91CB2 /* AddToCartDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToCartDetailView.swift; sourceTree = "<group>"; };
+		A49FEF8029818DFE00912568 /* Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shop.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -219,6 +221,7 @@
 			children = (
 				A48B52E1297EAE6D00B91CB2 /* Constant.swift */,
 				A48B530F297F254900B91CB2 /* CustomShape.swift */,
+				A49FEF8029818DFE00912568 /* Shop.swift */,
 			);
 			path = Utility;
 			sourceTree = "<group>";
@@ -321,6 +324,7 @@
 				A48B5312297F27B600B91CB2 /* RatingSizesDetailView.swift in Sources */,
 				A48B52EA297F03CE00B91CB2 /* PlayerModel.swift in Sources */,
 				A48B5310297F254900B91CB2 /* CustomShape.swift in Sources */,
+				A49FEF8129818DFF00912568 /* Shop.swift in Sources */,
 				A48B52FA297F135500B91CB2 /* TitleView.swift in Sources */,
 				A48B5302297F1B7600B91CB2 /* BrandModel.swift in Sources */,
 				A48B52FE297F149D00B91CB2 /* ProductItemview.swift in Sources */,
